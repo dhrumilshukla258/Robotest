@@ -1,0 +1,50 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_daffodil_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_daffodil_solid_color_background.jpg
+
+newmtl M_640x480_dark_red_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.003922 0.003922
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_dark_red_solid_color_background.jpg
+
+newmtl M_640x480_dark_jungle_green_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.145098 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_dark_jungle_green_solid_color_background1.jpg
+
+newmtl _auto_102
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_dark_gray_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_dark_gray_solid_color_background1.jpg
+
+newmtl _auto_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_dark_liver_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.294118 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_dark_liver_solid_color_background1.jpg
+
+newmtl M_640x480_licorice_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.066667 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd Gun/M_640x480_licorice_solid_color_background1.jpg
+

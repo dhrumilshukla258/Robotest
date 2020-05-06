@@ -1,0 +1,13 @@
+{
+
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "isLight": false,
+    "ModelFile": "Credit_1.obj"
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "credit_1"
+}

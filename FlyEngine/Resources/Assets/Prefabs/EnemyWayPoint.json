@@ -1,0 +1,17 @@
+{
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    },
+    "isTrigger": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.25, 0.25, 0.25 ]
+  },
+  "Type": "EnemyWayPoint"
+}

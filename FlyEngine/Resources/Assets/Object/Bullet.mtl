@@ -1,0 +1,39 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_gray_web_gray_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Bullet/M_640x480_gray_web_gray_solid_color_background1.jpg
+
+newmtl M_640x480_feldgrau_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.364706 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd Bullet/M_640x480_feldgrau_solid_color_background1.jpg
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_ebony_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.364706 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Bullet/M_640x480_ebony_solid_color_background.jpg
+
+newmtl M_640x480_dust_storm_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.800000 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd Bullet/M_640x480_dust_storm_solid_color_background.jpg
+
+newmtl M_640x480_french_bistre_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.427451 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd Bullet/M_640x480_french_bistre_solid_color_background1.jpg
+

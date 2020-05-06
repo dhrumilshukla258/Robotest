@@ -1,0 +1,20 @@
+{
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 100,
+      "Bottom": -100,
+      "Left": -100,
+      "Right": 100
+    },
+    "isTrigger": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Text": {
+    "TextAppear": false
+  },
+  "Type": "TextBox"
+}

@@ -1,0 +1,28 @@
+{
+  "Body": {
+    "Mass": 1
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Health": { "Health":100 },
+
+
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Enemy.obj",
+    "isLight": false
+
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Enemy"
+}

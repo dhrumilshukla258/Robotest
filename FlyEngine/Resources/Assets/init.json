@@ -1,0 +1,14 @@
+{
+  "glsl_version": "#version 430",
+  "Height": 600,
+  "Level_dir": "Resources/Assets/Levels/",
+  "Object_dir": "Resources/Assets/Object/",
+  "Prefab_dir": "Resources/Assets/Prefabs/",
+  "Audio_dir": "Resources/Assets/Audio/",
+  "Script_dir": "Resources/Assets/Scripts/",
+  "Start_Scene": "Menu.json",
+  "Level_Sequence": [ "Level01.json", "Level02.json", "Level03.json", "LevelBoss.json", "WinScreen.json" ],
+  "Texture_dir": "Resources/Assets/Images/",
+  "Serialize_dir": "Resources/Assets/Levels/Serialized/",
+  "Width": 800
+}

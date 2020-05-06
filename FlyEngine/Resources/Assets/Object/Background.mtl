@@ -1,0 +1,39 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_dark_tan_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.505882 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Background/M_640x480_dark_tan_solid_color_background.jpg
+
+newmtl M_640x480_smoky_black_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.050980 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd Background/M_640x480_smoky_black_solid_color_background1.jpg
+
+newmtl M_640x480_brass_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.650980 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd Background/M_640x480_brass_solid_color_background1.jpg
+
+newmtl M_640x480_brass_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.650980 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd Background/M_640x480_brass_solid_color_background.jpg
+
+newmtl M_640x480_liver_organ_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.180392 0.121569
+Ks 0.330000 0.330000 0.330000
+map_Kd Background/M_640x480_liver_organ_solid_color_background.jpg
+

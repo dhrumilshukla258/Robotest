@@ -1,0 +1,81 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_dark_coral_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.356863 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_dark_coral_solid_color_background.jpg
+
+newmtl M_640x480_dark_moss_green_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.368627 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_dark_moss_green_solid_color_background1.jpg
+
+newmtl M_640x480_dark_orange_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.545098 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_dark_orange_solid_color_background.jpg
+
+newmtl M_640x480_black_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_black_solid_color_background.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_lion_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.603922 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_lion_solid_color_background1.jpg
+
+newmtl M_640x480_russet_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.274510 0.105882
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_russet_solid_color_background1.jpg
+
+newmtl M_640x480_light_red_ochre_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.454902 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_light_red_ochre_solid_color_background1.jpg
+
+newmtl M_640x480_seal_brown_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.078431 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_seal_brown_solid_color_background.jpg
+
+newmtl M_640x480_cardinal_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.117647 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_cardinal_solid_color_background1.jpg
+
+newmtl M_640x480_mahogany_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.250980 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_mahogany_solid_color_background.jpg
+
+newmtl M_640x480_onyx_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.219608 0.223529
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_onyx_solid_color_background1.jpg
+
+newmtl M_640x480_grullo_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.603922 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd Enemy/M_640x480_grullo_solid_color_background.jpg
+

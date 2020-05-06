@@ -1,0 +1,705 @@
+{
+  "Enemy0": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ -16.2385, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -80.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ -29.7745, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ -12.9998, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ -19.9998, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "World1": { "file": "World.json" },
+  "Enemy2": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 86.4561, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 72.9201, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 82.5278, 14.376, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 97.1286, 14.3761, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Foreground3": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.3, 0.3, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 40.0, 9.0, 0.0 ],
+      "Scale": [ 35.0, 2.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Light4": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.5, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 40.0, 34.0, 0.0 ],
+      "Scale": [ 1.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 0,
+      "Direction": [ 0.2, 0.2, 0.2 ],
+      "Ambient": [ 0.1, 0.1, 0.1 ],
+      "Diffuse": [ 1.5, 1.0, 1.0 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Skybox5": {
+    "file": "Skybox.json",
+    "Transform": {
+      "Position": [ 237.0, 25.0, 100.0 ],
+      "Scale": [ 300.0, 300.0, 300.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Enemy6": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ -6.0347, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -35.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 7.5012, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ -2.9998, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ -9.9998, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Enemy7": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 3.2352, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -134.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ -10.3007, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 7.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 0.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Enemy8": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 12.546, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ -0.9899, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 17.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 10.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Enemy9": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 24.1248, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -53.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 10.5888, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 0.0, 1.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 27.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 20.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Foreground10": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 39.8494, 37.7136, 0.0 ],
+      "Scale": [ 4.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Enemy11": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 37.098, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 50.634, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 42.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 30.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Enemy12": {
+    "file": "Enemy.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 52.6416, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 66.1776, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 57.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 45.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    }
+  },
+  "Enemy14": {
+    "file": "Enemy.json",
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 79.9944, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 72.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 60.0, 13.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    },
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 66.4584, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Enemy15": {
+    "file": "Enemy.json",
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 93.0166, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 111.0912, 13.8597, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 100.4595, 14.9233, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    },
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 106.5526, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Enemy16": {
+    "file": "Enemy.json",
+    "EnemyAI": {
+      "Entity": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 136.3786, 17.1802, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "EntityVec": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 125.7144, 15.1344, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 118.7935, 14.8993, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "ShootGap": 1.0,
+      "DroneActive": true,
+      "GuardSpeed": 5.0
+    },
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Player.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 122.8426, 14.1202, 0.0 ],
+      "Scale": [ 0.6, 1.0, 1.0 ],
+      "Rotation": -26.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Player13": {
+    "file": "Player.json",
+    "Model": {
+      "Color": [ 5.0, 5.0, 5.0 ],
+      "ModelFile": "Running.fbx",
+      "isLight": false
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 1,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 0.0, 0.0, 0.0 ],
+      "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "Color_W": 1.0,
+      "Life": 1.0,
+      "Kill_Time": 0.03,
+      "Velocity_Control": 0.0,
+      "Color_Fade": 0.01,
+      "X_Axis_Adjust": 2.0,
+      "Y_Axis_Adjust": 2.0,
+      "Z_Axis_Adjust": 2.0,
+      "X_Scale_Adjust": 0.0,
+      "Y_Scale_Adjust": 0.0,
+      "Z_Scale_Adjust": 0.0,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 1,
+      "Current_Texture_ID": 0
+    },
+    "Transform": {
+      "Position": [ 40.9661, 42.701, 0.0 ],
+      "Scale": [ 0.6, 1.0, 0.95 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Audios": {
+    "Load": [],
+    "LoadLoop": []
+  }
+}

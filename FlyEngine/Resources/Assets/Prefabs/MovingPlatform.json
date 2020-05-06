@@ -1,0 +1,27 @@
+{
+  "Body": {
+    "Mass": 1000000.0,
+	  "useGravity" : false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    },
+	"e" : 0	
+  },
+  "Model": {
+  "Color": [ 1.0, 1.0, 1.0 ], 
+    "ModelFile": "Moving_Platform.obj",
+	"isLight": false
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Oscillation": {},
+  "Type": "MovingPlatform"
+}

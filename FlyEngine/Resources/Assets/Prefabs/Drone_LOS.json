@@ -1,0 +1,48 @@
+{
+  "Body": {
+    "Mass": 0.01,
+    "useGravity": false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Floor.obj",
+    "isLight": false
+  },
+  "EnemyAI": {
+    "EnemyType": "Drone",
+    "ShootGap": 1.5,
+    "ShootSpeed": 30.0,
+    "DroneLOS": {
+      "file": "DroneTrigger.json",
+      "Transform": {
+        "Position": [ 12.0, 3.0, 0.0 ],
+        "Scale": [ 10.0, 10.0, 0.0 ],
+        "Rotation": 0.0,
+        "RotationDir": [ 0.0, 1.0, 0.0 ],
+        "ChildOffset": [ 0.0, 0.0, 0.0 ]
+      }
+    }
+  },
+  "Homing": {
+    "Speed": 5.0,
+    "RotSpeed": 1.0,
+    "InitialPadding": 1.0,
+    "HomingActive": false,
+    "KeepHoming": false
+  },
+  "Health": { "Health": 100.0 },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.5, 0.5, 0.5 ]
+  },
+  "Type": "Drone"
+}

@@ -1,0 +1,17 @@
+{
+  "Body": {
+    "Mass": 0.0,
+    "useGravity": false
+  },
+  "Model": {
+  "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Hand.obj",
+	"isLight": false
+  },
+
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.5, 0.5, 0.3 ]
+  },
+  "Type": "FireGun"
+}

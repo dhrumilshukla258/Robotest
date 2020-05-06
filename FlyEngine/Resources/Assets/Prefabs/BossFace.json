@@ -1,0 +1,12 @@
+{
+  "Model": {
+    "ModelFile": "Boss_Face.obj",
+    "Color": [ 5.0, 5.0, 5.0 ],
+    "isLight": false
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 0.5 ]
+  },
+  "Type": "Boss"
+}  

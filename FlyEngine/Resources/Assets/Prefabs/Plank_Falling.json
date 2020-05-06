@@ -1,0 +1,35 @@
+{
+  "Body": {
+    "Mass": 100
+  },
+  "Collider" :{
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Collider" :{
+    "Shape": {
+      "Name": "AABB",
+      "Top": 1,
+      "Bottom": -1,
+      "Left": -2.7,
+      "Right": 2.7
+    },
+	"isTrigger" :  true
+  },
+  "Model": {
+  "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Plank_Falling.obj",
+	"isLight": false
+  },
+  
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Box"
+}

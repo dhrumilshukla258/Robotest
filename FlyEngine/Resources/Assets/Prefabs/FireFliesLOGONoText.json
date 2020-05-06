@@ -1,0 +1,13 @@
+{
+
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "isLight": false,
+    "ModelFile": "FireFlies LOGO_No_Text.obj"
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "fireflieslogo"
+}

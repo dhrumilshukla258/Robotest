@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_light_yellow_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.996078 0.874510
+Ks 0.330000 0.330000 0.330000
+map_Kd Boss_Face/M_640x480_light_yellow_solid_color_background.jpg
+

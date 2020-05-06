@@ -1,0 +1,3901 @@
+{
+  "Audios": {
+    "Load": [ "PlayerDie3.mp3", "BulletWall.mp3", "BulletLava.mp3", "DoorOpen.mp3", "PlayerGetsGun.mp3", "GuardDie.mp3", "ButtonPress2.mp3", "Hit.wav", "FireGun.mp3", "PlayerDies.mp3", "PlayerDragging.mp3", "PlayerJump.mp3", "PlayerRespawns.mp3", "PlayerTouchesGround.mp3", "PlayerWalks.mp3" ],
+    "LoadLoop": [ "BG02.mp3" ]
+  },
+  "Background185": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 23.5437, 0.0 ],
+      "Scale": [ 0.01, 0.5, 0.5 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background186": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 17.5437, 0.0 ],
+      "Scale": [ 0.01, 0.8, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background187": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 17.5437, 5.0 ],
+      "Scale": [ 0.01, 0.3, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background188": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 17.5437, -4.9999 ],
+      "Scale": [ 0.01, 0.3, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background189": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 12.5437, 1.0 ],
+      "Scale": [ 0.01, 0.3, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background190": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 12.5437, -1.9999 ],
+      "Scale": [ 0.01, 0.3, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background191": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.0, 24.0, -1.4999 ],
+      "Scale": [ 0.01, 0.3, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background192": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.0, 24.0, 0.5 ],
+      "Scale": [ 0.01, 0.3, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background193": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.3, 0.0, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.1748, 21.0, 0.5 ],
+      "Scale": [ 0.01, 2.3, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background194": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.3, 0.0, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.375, 18.0, 0.5 ],
+      "Scale": [ 0.01, 3.3, 3.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background2": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.0, 0.075, 0.2 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 350.0, 36.0, -11.9976 ],
+      "Scale": [ 153.0, 1.0, 16.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background3": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 205.0, 55.0, -10.9998 ],
+      "Scale": [ 9.0, 1.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background4": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 285.0, 55.0, -10.9998 ],
+      "Scale": [ 9.0, 1.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background5": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 490.0, 55.0, -10.9998 ],
+      "Scale": [ 9.0, 1.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background6": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.6, 18.0, 0.0 ],
+      "Scale": [ 0.1, 3.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background7": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 625.0, 27.0, -10.9998 ],
+      "Scale": [ 3.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Background8": {
+    "file": "Background.json",
+    "Model": {
+      "Color": [ 0.1, 0.1, 0.1 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 105.0, 5.0, -10.9998 ],
+      "Scale": [ 9.0, 1.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+
+  "Box7": {
+    "file": "Box.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Box.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 653.729, 9.6751, 0.0 ],
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Checkpoint8": {
+    "file": "Checkpoint.json",
+    "Transform": {
+      "Position": [ 261.179, 17.4209, 0.0 ],
+      "Scale": [ 3.25, 17.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Checkpoint9": {
+    "file": "Checkpoint.json",
+    "Transform": {
+      "Position": [ 68.7443, 37.7819, 0.0 ],
+      "Scale": [ 11.25, 35.25, 6.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Checkpoint10": {
+    "file": "Checkpoint.json",
+    "Transform": {
+      "Position": [ 630.1921, 26.1449, 0.0 ],
+      "Scale": [ 3.25, 7.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Checkpoint11": {
+    "file": "Checkpoint.json",
+    "Transform": {
+      "Position": [ 424.0, 24.0, 0.0 ],
+      "Scale": [ 8.25, 25.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+
+
+
+
+  "FireGun23": {
+    "file": "FireGun.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Hand.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 150.0, 26.0, 0.0 ],
+      "Scale": [ 0.5, 0.5, 0.3 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Particle": {
+      "Type": 4,
+      "Static_Dynamic": 0,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 0.0, 0.0, 0.0 ],
+      "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "Color_W": -214748.3647,
+      "Life": -214748.3647,
+      "Kill_Time": -214748.3647,
+      "Velocity_Control": -214748.3647,
+      "Color_Fade": -214748.3647,
+      "X_Axis_Adjust": -214748.3647,
+      "Y_Axis_Adjust": -214748.3647,
+      "Z_Axis_Adjust": -214748.3647,
+      "X_Scale_Adjust": -214748.3647,
+      "Y_Scale_Adjust": -214748.3647,
+      "Z_Scale_Adjust": -214748.3647,
+      "Scale": [ 0.0, 0.0, 0.0 ],
+      "Max_Paticles": -842150451,
+      "Current_Texture_ID": 1
+    }
+  },
+  "Foreground1": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 472.0, 26.7, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground100": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 490.0001, 5.0, 0.0 ],
+      "Scale": [ 2.0, 3.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground101": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 183.2916, 6.9354, 0.0 ],
+      "Scale": [ 2.0, 2.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground102": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 309.834, 45.4, 0.0 ],
+      "Scale": [ 4.0, 4.0, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground103": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 164.5, 35.0, 0.0 ],
+      "Scale": [ 2.0, 2.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground104": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 649.0, 2.0, 0.0 ],
+      "Scale": [ 11.0, 5.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground105": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 625.0001, 10.0, 0.0 ],
+      "Scale": [ 4.0, 1.0, 5.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground106": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 159.5, 40.0, 0.0 ],
+      "Scale": [ 1.0, 1.0, 9.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground107": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 492.5001, 15.0, 0.0 ],
+      "Scale": [ 1.0, 2.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground108": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 765.0001, 25.0, 0.0 ],
+      "Scale": [ 10.0, 5.0, 25.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground109": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 535.0, 15.0, 0.0 ],
+      "Scale": [ 12.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground110": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 70.0, 18.0, 0.0 ],
+      "Scale": [ 4.0, 1.0, 1.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground111": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 504.0, 46.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground112": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 5.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.4002, 3.0, 0.0 ],
+      "Scale": [ 0.02, 1.1, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground113": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 739.4102, 3.0, 0.0 ],
+      "Scale": [ 0.02, 1.3, 2.3 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground114": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 634.5, 30.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground115": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 590.0, 5.0, 0.0 ],
+      "Scale": [ 2.0, 4.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground116": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ -39.9949, 25.0, 0.0 ],
+      "Scale": [ 11.0, 3.0, 24.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground117": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 575.5, 1.7, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground118": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 204.5, 45.0, 0.0 ],
+      "Scale": [ 8.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground119": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 520.0, 25.0, 0.0 ],
+      "Scale": [ 6.0, 1.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground120": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 455.0, 43.2, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground121": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 184.5, 25.0, 0.0 ],
+      "Scale": [ 2.0, 2.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground122": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 595.0001, -4.9958, 0.0 ],
+      "Scale": [ 2.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground123": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 615.5, 21.7, 2.7 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground124": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 625.0001, 50.8, 0.0 ],
+      "Scale": [ 4.0, 1.0, 8.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground125": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 385.0, 14.5, 0.0 ],
+      "Scale": [ 9.0, 1.0, 6.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground126": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 405.0, 15.0, 0.3 ],
+      "Scale": [ 4.0, 4.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground127": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ -13.9997, 2.9, 0.0 ],
+      "Scale": [ 0.9, 1.1, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground128": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 615.5, 31.5, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground129": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ -14.0098, 2.9, 0.0 ],
+      "Scale": [ 0.9, 1.3, 2.3 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground130": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 22.302, 4.8862, 4.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground131": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 595.5, 11.7, 7.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground132": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 42.302, 9.8862, 4.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground133": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 107.302, 13.8862, 5.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground134": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 147.302, 14.8862, 5.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground135": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 202.302, -0.1135, 11.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground136": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 252.302, 44.8862, 3.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground137": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 397.302, 26.8862, 3.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground138": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 458.302, 24.8862, 13.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground139": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 538.302, 14.8862, 3.0 ],
+      "Scale": [ 4.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground14": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 187.9, 20.9354, 0.0 ],
+      "Scale": [ 1.5, 1.0, 10.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground140": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 717.0, 12.2, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground141": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 625.302, 31.8862, 2.5 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground142": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 580.302, -0.1135, 13.5 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground143": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 222.302, 29.8862, 3.0 ],
+      "Scale": [ 7.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground144": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 202.3019, 7.8862, 8.0 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground145": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 387.302, 37.8862, 8.0 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground146": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 422.302, 37.8862, 8.0 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground15": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 480.3021, 6.8862, 10.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground16": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 590.302, 6.8862, 10.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground17": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 625.302, 21.8862, 3.0 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground18": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 715.302, 4.8862, 13.0 ],
+      "Scale": [ 0.1, 0.1, 2.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground182": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 476.0, 6.7, 10.2 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground183": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 485.5, 11.7, 8.2 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground184": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 490.5, 16.7, 5.2 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground19": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 0.5, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 655.302, 5.8862, 14.0 ],
+      "Scale": [ 8.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground20": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 0.5, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 600.302, 8.8862, 8.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground21": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 0.5, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 520.302, 30.8862, 3.0 ],
+      "Scale": [ 5.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground22": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 0.5, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 425.302, 10.8862, 13.0 ],
+      "Scale": [ 3.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground23": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 480.3021, 45.8862, 3.0 ],
+      "Scale": [ 9.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground24": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 610.302, 15.8862, 6.0 ],
+      "Scale": [ 1.0, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground25": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 310.302, 20.8862, 3.0 ],
+      "Scale": [ 0.1, 0.1, 9.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground26": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 18.0, 6.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground27": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 18.0, 2.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 0.0, 1.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground28": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 449.0, 37.0, 8.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground29": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 27.0, 2.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground30": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 27.0, 6.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground31": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 395.2, 19.0, 10.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground32": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 38.0, 7.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground33": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 38.0, 11.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground34": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 190.8, 9.3, 7.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground35": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 47.0, 11.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground36": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 47.0, 7.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground37": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 363.2, 29.0, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground38": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 56.5, 12.9964, 5.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground39": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 56.5, 16.9964, 5.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground40": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 564.5, 16.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground41": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 60.5, 19.9964, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground42": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 161.0, 13.5, 5.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground43": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 472.0, 23.2, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground44": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 185.0, 46.5, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground45": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 224.0, 46.5, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground46": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 432.2, 12.0, 13.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground47": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 224.0, 43.5, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground48": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 202.5, 31.5, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground49": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 202.5, 28.0, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground50": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 199.5, 17.0, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground51": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 241.5, 27.8, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground52": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 265.8, 43.3, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground53": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 265.8, 46.8, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground54": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 265.8, 46.8, 2.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground55": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 209.8, 9.3, 7.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground56": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 187.6, 2.0, 10.6 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground57": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 216.9, 2.0, 10.3 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground58": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 260.9, 7.0, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground59": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 268.9, 7.0, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground60": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 357.9, 11.5, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground61": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 414.2, 19.0, 10.5 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground62": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 407.2, 29.0, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground63": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 367.7, 38.0, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground64": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 441.0, 23.5, 8.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground65": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 455.0, 46.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground66": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 534.0, 31.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground67": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 564.5, 13.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground68": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 585.5, 6.7, 10.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground69": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 605.5, 16.7, 5.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground70": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 634.5, 21.7, 2.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground71": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 676.5, 6.7, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground72": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 713.0, 12.2, 12.8 ],
+      "Scale": [ 0.05, 0.05, 0.05 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground73": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 445.0, 30.0, 0.0 ],
+      "Scale": [ 2.0, 3.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground74": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 147.5, 20.0, 0.0 ],
+      "Scale": [ 5.0, 1.0, 1.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground75": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 109.0, 15.0, 0.0 ],
+      "Scale": [ 20.7, 2.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground76": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 333.0, -14.9949, 0.0 ],
+      "Scale": [ 159.0, 5.0, 5.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground77": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 164.5, 18.0, 0.0 ],
+      "Scale": [ 2.0, 2.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground78": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 479.5, 45.0, 0.0 ],
+      "Scale": [ 10.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground79": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 219.5, 29.7, 0.0 ],
+      "Scale": [ 7.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground80": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 460.0, 25.0, 0.0 ],
+      "Scale": [ 5.0, 5.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground81": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 610.0001, 15.0, 0.0 ],
+      "Scale": [ 2.0, 2.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground82": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 202.2916, 0.0, 0.0 ],
+      "Scale": [ 6.0, 4.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground83": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 42.5, 10.0, 0.0 ],
+      "Scale": [ 2.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground84": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 239.5, 45.0, 0.0 ],
+      "Scale": [ 1.0, 1.0, 7.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground85": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 355.0, 75.0, 0.0 ],
+      "Scale": [ 150.0, 1.0, 5.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground86": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 265.0, 2.7002, 0.0 ],
+      "Scale": [ 2.0, 5.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground87": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 715.0001, 5.0, 0.0 ],
+      "Scale": [ 1.0, 5.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground88": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 192.2916, 7.5, 0.0 ],
+      "Scale": [ 3.0, 1.0, 4.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground89": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 600.0001, 10.0, 0.0 ],
+      "Scale": [ 2.0, 3.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground90": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 200.2916, 2.5, 0.0 ],
+      "Scale": [ 4.0, 3.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground91": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 405.0, 50.0, 0.0 ],
+      "Scale": [ 15.0, 1.0, 5.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground92": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 239.5, 45.0, 0.0 ],
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground93": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 500.0001, 15.0, 0.0 ],
+      "Scale": [ 2.0, 1.0, 11.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground94": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 22.5, 5.0, 0.0 ],
+      "Scale": [ 2.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground95": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 395.0, 5.0, 0.0 ],
+      "Scale": [ 15.0, 5.0, 3.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground96": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 254.0, 45.0, 0.0 ],
+      "Scale": [ 5.0, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground97": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 310.0, 20.0, 0.0 ],
+      "Scale": [ 1.0, 1.0, 10.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground98": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 580.0, 0.0, 0.0 ],
+      "Scale": [ 2.0, 5.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground99": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 480.0001, 2.5, 0.0 ],
+      "Scale": [ 2.0, 4.0, 2.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Foreground243": {
+    "file": "Foreground.json",
+    "Model": {
+      "Color": [ 0.0, 0.3, 0.5 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 257.84, 48.0, 0.0 ],
+      "Scale": [ 3.5, 1.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+
+  "Key68": {
+    "file": "Key.json",
+    "Model": {
+      "Color": [ 3.0, 3.0, 0.0 ],
+      "ModelFile": "Yelow_Switch.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 245.500, 47.800, 0.0 ],
+      "Scale": [ 1.0, 1.0, 0.04 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 0.0, 1.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Key": {
+      "EntityVec": [
+        {
+          "file": "Door.json",
+          "Model": {
+            "Color": [ 3.0, 3.0, 0.0 ],
+            "ModelFile": "Brown_Gate.obj",
+            "isLight": false
+          },
+          "Door": { "DoorType": "PressOnce" },
+          "Transform": {
+            "Position": [ 366.2, 33.8, 0.0 ],
+            "Scale": [ 0.1, 1.0, 1.5 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ]
+    }
+  },
+  "Key69": {
+    "file": "Key.json",
+    "Model": {
+      "Color": [ 3.0, 3.0, 0.0 ],
+      "ModelFile": "Yelow_Switch.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 511.0, -2.1983, 0.0 ],
+      "Scale": [ 1.0, 1.0, 0.01 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Key": {
+      "EntityVec": [
+        {
+          "file": "Door.json",
+          "Model": {
+            "Color": [ 3.0, 3.0, 1.0 ],
+            "ModelFile": "Brown_Gate.obj",
+            "isLight": false
+          },
+          "Door": { "DoorType": "PressOnce" },
+          "Transform": {
+            "Position": [ 614.3, 27.0, 0.0 ],
+            "Scale": [ 0.1, 1.0, 1.5 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ]
+    }
+  },
+  "Light104": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 496.1189, 19.6697, 4.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 0,
+      "Direction": [ 0.2, 0.2, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+
+  "Light72": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 234.0065, -4.5232, 14.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 0.2, 18.2, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light73": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 489.5983, 65.9989, 4.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ -0.7997, -24.7997, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light74": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 103.8892, -5.4907, 14.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 1.2, 45.2, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light75": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 159.384, -2.3679, -7.9998 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 0.2, 0.2, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light76": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 205.2667, 67.0, 3.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 1.2, -25.7997, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light77": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ -14.4965, 5.0955, 3.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 1.2, 0.2, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light78": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 281.635, 65.2, 4.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 0.2, -4.7997, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light79": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 387.26, 23.8, 3.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 12.2, 41.2, -25.7998 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "Light80": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 614.635, 42.2, 6.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ 0.2, -39.7997, 5.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 82.0
+    }
+  },
+  "Light81": {
+    "file": "Light.json",
+    "Model": {
+      "Color": [ 1.0, 0.5742, 0.1602 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 739.2, 27.2, 0.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Light": {
+      "Type": 1,
+      "Direction": [ -3.7997, -5.7997, 0.2 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Diffuse": [ 1.0, 0.5742, 0.1602 ],
+      "Specular": [ 0.2, 0.2, 0.2 ],
+      "Constant": 1.0,
+      "Linear": 0.027,
+      "Quadratic": 0.0028,
+      "CutOff": 55.0,
+      "OuterCutOff": 85.0
+    }
+  },
+  "MovingPlatform82": {
+    "file": "MovingPlatform.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Moving_Platform.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 280.5575, 29.9166, 0.0 ],
+      "Scale": [ 3.0, 1.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 0.0, 10.0 ],
+      "LeftRightDistance": 0.0,
+      "UpDownDistance": 40.0,
+      "LPos": [ 280.6152, 5.0, 0.0 ],
+      "UPos": [ 280.6152, 45.0, 0.0 ],
+      "idealVel": [ 0.0, -9.9999 ]
+    }
+  },
+  "MovingPlatform83": {
+    "file": "MovingPlatform.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Moving_Platform.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 339.586, 29.9119, 0.0 ],
+      "Scale": [ 3.0, 1.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 0.0, -9.9974 ],
+      "LeftRightDistance": 0.0,
+      "UpDownDistance": 40.0,
+      "LPos": [ 339.586, 5.0, 0.0 ],
+      "UPos": [ 339.586, 45.0, 0.0 ],
+      "idealVel": [ 0.0, -9.9974 ]
+    }
+  },
+  "MovingPlatform84": {
+    "file": "MovingPlatform.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Moving_Platform.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 82.0589, 23.8658, 0.0 ],
+      "Scale": [ 2.0, 1.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 5.0, 0.0 ],
+      "LeftRightDistance": 20.0,
+      "UpDownDistance": 0.0,
+      "LPos": [ 80.0, 24.0, 0.0 ],
+      "UPos": [ 100.0, 24.0, 0.0 ],
+      "idealVel": [ 5.0, 0.0 ]
+    }
+  },
+  "MovingPlatform85": {
+    "file": "MovingPlatform.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Moving_Platform.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 126.4873, 24.8798, 0.0 ],
+      "Scale": [ 2.0, 1.0, 0.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ -4.999, 0.0 ],
+      "LeftRightDistance": 20.0,
+      "UpDownDistance": 0.0,
+      "LPos": [ 110.0, 26.0, 0.0 ],
+      "UPos": [ 130.0, 26.0, 0.0 ],
+      "idealVel": [ -4.999, 0.0 ]
+    }
+  },
+  "MovingPlatform86": {
+    "file": "MovingPlatform.json",
+    "Model": {
+      "Color": [ 0.5, 0.5, 0.5 ],
+      "ModelFile": "Moving_Platform.obj",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 174.0755, 32.9316, 0.0 ],
+      "Scale": [ 0.5, 1.0, 1.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 0.0, 20.0 ],
+      "LeftRightDistance": 0.0,
+      "UpDownDistance": 40.0,
+      "LPos": [ 174.0755, 6.6652, 0.0 ],
+      "UPos": [ 174.0755, 46.6652, 0.0 ],
+      "idealVel": [ 0.0, 20.0 ]
+    }
+  },
+  "MovingSpikes87": {
+    "file": "MovingSpikes.json",
+    "Model": {
+      "Color": [ 5.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 104.8529, 46.4974, 0.0 ],
+      "Scale": [ 1.0, 1.0, 0.5 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 0.0, -4.9991 ],
+      "LeftRightDistance": 0.0,
+      "UpDownDistance": 20.0,
+      "LPos": [ 105.0, 31.0, 0.0 ],
+      "UPos": [ 105.0, 51.0, 0.0 ],
+      "idealVel": [ 0.0, -4.9991 ]
+    }
+  },
+  "Player88": {
+    "file": "Player.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "Running.fbx",
+      "isLight": false
+    },
+    "Transform": {
+      "Position": [ 0.5494, 0.2268, 0.0 ],
+      "Scale": [ 0.6, 1.0, 0.95 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 1,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 1.0, 3.0, 0.0 ],
+      "Position_Adjust": [ 0.0, -1.9999, 0.0 ],
+      "Color": [ 0.5, 0.5, 0.5 ],
+      "Color_W": 0.5,
+      "Life": 1.0,
+      "Kill_Time": 0.0,
+      "Velocity_Control": 0.01,
+      "Color_Fade": 0.03,
+      "X_Axis_Adjust": 1.0,
+      "Y_Axis_Adjust": 1.0,
+      "Z_Axis_Adjust": 1.0,
+      "X_Scale_Adjust": 0.01,
+      "Y_Scale_Adjust": 0.01,
+      "Z_Scale_Adjust": 0.01,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 2,
+      "Current_Texture_ID": 0
+    }
+  },
+  "Skybox89": {
+    "file": "Skybox.json",
+    "Transform": {
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Scale": [ 550.0, 550.0, 550.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Spikes90": {
+    "file": "Spikes.json",
+    "Model": {
+      "Color": [ 20.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 319.5676, -1.4963, 0.0 ],
+      "Scale": [ 20.0, 3.0, 1.2 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Spikes91": {
+    "file": "Spikes.json",
+    "Model": {
+      "Color": [ 20.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 107.1214, 18.8, 0.0 ],
+      "Scale": [ 11.0, 0.9, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Spikes92": {
+    "file": "Spikes.json",
+    "Model": {
+      "Color": [ 20.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 696.5678, -1.0444, 0.0 ],
+      "Scale": [ 8.0, 3.0, 0.8 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "TextBox93": {
+    "file": "TextBox.json",
+    "Transform": {
+      "Position": [ 59.0, 14.0, 6.0 ],
+      "Scale": [ 0.3, 0.3, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Text": {
+      "Str": "Search for a Weapon",
+      "TextTrgPT": {
+        "file": "TextTrigger.json",
+        "Transform": {
+          "Position": [ 55.0, 19.0, 0.0 ],
+          "Scale": [ 10.0, 49.0, 1.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "TextAppear": false,
+      "TextColor": [ 0.5, 0.5, 0.5 ]
+    }
+  },
+  "TextBox94": {
+    "file": "TextBox.json",
+    "Transform": {
+      "Position": [ 137.0, 21.0, 3.0 ],
+      "Scale": [ 0.3, 0.3, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Text": {
+      "Str": "Press X To Shoot",
+      "JoyStickStr": "Press Sqr / X To Shoot",
+      "TextTrgPT": {
+        "file": "TextTrigger.json",
+        "Transform": {
+          "Position": [ 155.0, 29.0, 0.0 ],
+          "Scale": [ 10.0, 14.0, 1.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "TextAppear": false,
+      "TextColor": [ 1.0, 1.0, 0.0 ]
+    }
+  },
+  "TextBox95": {
+    "file": "TextBox.json",
+    "Transform": {
+      "Position": [ 651.0, 16.0, 0.0 ],
+      "Scale": [ 0.3, 0.3, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Text": {
+      "Str": "Drop the box to the pool ..",
+      "TextTrgPT": {
+        "file": "TextTrigger.json",
+        "Transform": {
+          "Position": [ 646.0, 14.0, 0.0 ],
+          "Scale": [ 10.0, 14.0, 1.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "TextAppear": false,
+      "TextColor": [ 0.5, 0.5, 0.5 ]
+    }
+  },
+  "TriggerBox96": {
+    "file": "TriggerBox.json",
+    "Transform": {
+      "Position": [ 85.8892, 12.509, 0.0 ],
+      "Scale": [ 0.25, 0.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "World97": { "file": "World.json" },
+  "Particle98": {
+    "file": "Particle.json",
+    "Model": {
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 0,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 0.0, 1.0, 0.0 ],
+      "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "Color_W": 1.0,
+      "Life": 1.0,
+      "Kill_Time": 0.0001,
+      "Velocity_Control": 0.03,
+      "Color_Fade": 0.01,
+      "X_Axis_Adjust": 20.0,
+      "Y_Axis_Adjust": 2.0,
+      "Z_Axis_Adjust": 2.0,
+      "X_Scale_Adjust": -0.0093,
+      "Y_Scale_Adjust": -0.0093,
+      "Z_Scale_Adjust": -0.0093,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 1,
+      "Current_Texture_ID": 0
+    },
+    "Transform": {
+      "Position": [ 104.0, 22.0, 0.0 ],
+      "Scale": [ 0.0, 0.0, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Particle99": {
+    "file": "Particle.json",
+    "Model": {
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 0,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 0.0, 1.0, 0.0 ],
+      "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "Color_W": 1.0,
+      "Life": 1.0,
+      "Kill_Time": 0.0001,
+      "Velocity_Control": 0.03,
+      "Color_Fade": 0.01,
+      "X_Axis_Adjust": 40.0,
+      "Y_Axis_Adjust": 2.0,
+      "Z_Axis_Adjust": 2.0,
+      "X_Scale_Adjust": -0.0093,
+      "Y_Scale_Adjust": -0.0093,
+      "Z_Scale_Adjust": -0.0093,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 1,
+      "Current_Texture_ID": 0
+    },
+    "Transform": {
+      "Position": [ 308.0, 5.0, 0.0 ],
+      "Scale": [ 0.0, 0.0, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "Particle100": {
+    "file": "Particle.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 0,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ 0.0, 1.0, 0.0 ],
+      "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+      "Color": [ 1.0, 0.0, 0.0 ],
+      "Color_W": 1.0,
+      "Life": 1.0,
+      "Kill_Time": 0.0001,
+      "Velocity_Control": 0.03,
+      "Color_Fade": 0.01,
+      "X_Axis_Adjust": 18.0,
+      "Y_Axis_Adjust": 2.0,
+      "Z_Axis_Adjust": 2.0,
+      "X_Scale_Adjust": -0.0093,
+      "Y_Scale_Adjust": -0.0093,
+      "Z_Scale_Adjust": -0.0093,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 1,
+      "Current_Texture_ID": 0
+    },
+    "Transform": {
+      "Position": [ 696.0, 1.0, 0.0 ],
+      "Scale": [ 0.0, 0.0, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "End101": {
+    "file": "End.json",
+    "Transform": {
+      "Position": [ 738.7, 5.2499, 0.0 ],
+      "Scale": [ 0.25, 15.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "MovingSpikes102": {
+    "file": "MovingSpikes.json",
+    "Model": {
+      "Color": [ 5.0, 0.0, 0.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": true
+    },
+    "Transform": {
+      "Position": [ 313.858, 49.0, 0.0 ],
+      "Scale": [ 0.5, 0.5, 0.5 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "Oscillation": {
+      "Start": true,
+      "ResetBoundaries": false,
+      "Velocity": [ 20.0, 0.0 ],
+      "LeftRightDistance": 40.0,
+      "UpDownDistance": 0.0,
+      "LPos": [ 290.0, 49.0, 0.0 ],
+      "UPos": [ 330.0, 49.0, 0.0 ],
+      "idealVel": [ 20.0, 0.0 ]
+    }
+  },
+  "Particle103": {
+    "file": "Particle.json",
+    "Model": {
+      "Color": [ 1.0, 1.0, 1.0 ],
+      "ModelFile": "White_Light.obj",
+      "isLight": false
+    },
+    "Particle": {
+      "Type": 0,
+      "Static_Dynamic": 0,
+      "Position": [ 0.0, 0.0, 0.0 ],
+      "Velocity": [ -0.9998, 0.0, 0.0 ],
+      "Position_Adjust": [ 1.0, 0.0, 0.0 ],
+      "Color": [ 0.0, 1.0, 0.0 ],
+      "Color_W": 1.0,
+      "Life": 0.5,
+      "Kill_Time": 0.0001,
+      "Velocity_Control": 0.3,
+      "Color_Fade": 0.01,
+      "X_Axis_Adjust": 2.0,
+      "Y_Axis_Adjust": 4.0,
+      "Z_Axis_Adjust": 3.0,
+      "X_Scale_Adjust": -0.0298,
+      "Y_Scale_Adjust": -0.0298,
+      "Z_Scale_Adjust": -0.0098,
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Max_Paticles": 1,
+      "Current_Texture_ID": 0
+    },
+    "Transform": {
+      "Position": [ 740.999, 4.0, 0.0 ],
+      "Scale": [ 0.1, 0.1, 0.1 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+
+  "Enemy2": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 475.517, 50.1199, 0.0 ],
+      "Rotation": -125.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 461.981, 53.1799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 456.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 480.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy12": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 544.4185, 0.3647, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 530.8825, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 536.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 570.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy13": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 111.1678, 0.3647, 0.0 ],
+      "Rotation": -89.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 97.6318, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 70.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 115.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy14": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 547.8521, 20.1199, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 534.3161, 23.1799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 538.0, 20.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 560.0, 20.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy15": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 464.7219, 30.1199, 0.0 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 478.2579, 33.1799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 456.0, 33.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 470.0, 33.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy16": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 146.4389, 0.3647, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 132.9029, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 135.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 175.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy17": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 192.7186, 50.1199, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 179.1826, 53.1799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 190.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 218.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy18": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 227.1192, 34.8199, 0.0 ],
+      "Rotation": -26.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 218.5832, 27.8799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 205.0, 38.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 230.0, 38.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy19": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 260.6658, 52.1199, 0.0 ],
+      "Rotation": -116.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 247.1298, 55.1799, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 249.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 265.0, 53.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy20": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 230.2194, 0.3647, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 216.6834, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 221.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 255.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy21": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 444.4234, 0.3647, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 430.8874, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 436.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 470.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Enemy22": {
+    "file": "Enemy.json",
+    "Transform": {
+      "Position": [ 60.1964, 0.3647, 0.0 ],
+      "Rotation": -179.9999,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    },
+    "EnemyAI": {
+      "EnemyType": "Guard",
+      "ShootSpeed": 30.0,
+      "LOS_Box": {
+        "file": "EnemyTrigger.json",
+        "Transform": {
+          "Position": [ 46.6604, 3.4247, 0.0 ],
+          "Scale": [ 24.0, 11.0, 0.0 ],
+          "Rotation": 0.0,
+          "RotationDir": [ 0.0, 1.0, 0.0 ],
+          "ChildOffset": [ 0.0, 0.0, 0.0 ]
+        }
+      },
+      "WayPoints": [
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 42.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        },
+        {
+          "file": "EnemyWayPoint.json",
+          "Transform": {
+            "Position": [ 70.0, 3.0, 0.0 ],
+            "Scale": [ 2.0, 2.0, 2.0 ],
+            "Rotation": 0.0,
+            "RotationDir": [ 0.0, 1.0, 0.0 ],
+            "ChildOffset": [ 0.0, 0.0, 0.0 ]
+          }
+        }
+      ],
+      "GuardSpeed": 5.0,
+      "ShootGap": 1.0,
+      "DroneActive": true
+    }
+  },
+  "Checkpoint12": {
+    "file": "Checkpoint.json",
+    "Transform": {
+      "Position": [ 731.7, 5.2499, 0.0 ],
+      "Scale": [ 8.25, 25.25, 0.25 ],
+      "Rotation": 0.0,
+      "RotationDir": [ 0.0, 1.0, 0.0 ],
+      "ChildOffset": [ 0.0, 0.0, 0.0 ]
+    }
+  },
+  "CameraBounds": {
+    "Min": [ 35.0, 15.0, 70.0 ],
+    "Max": [ 700.0, 40.0, 70.0 ]
+  }
+
+}

@@ -1,0 +1,32 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_falu_red_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.094118 0.090196
+Ks 0.330000 0.330000 0.330000
+map_Kd Homing_Missile/M_640x480_falu_red_solid_color_background.jpg
+
+newmtl _auto_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_deep_carrot_orange_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.411765 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd Homing_Missile/M_640x480_deep_carrot_orange_solid_color_background.jpg
+
+newmtl _auto_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_640x480_ghost_white_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.976471 0.996078
+Ks 0.330000 0.330000 0.330000
+map_Kd Homing_Missile/M_640x480_ghost_white_solid_color_background1.jpg
+

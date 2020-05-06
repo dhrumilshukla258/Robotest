@@ -1,0 +1,22 @@
+{
+  "Body": {
+    "Mass": 0,
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Sprite": {
+    "Shape": "Rekt",
+    "Texture": "win.jpg"
+  },
+
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": ""
+}

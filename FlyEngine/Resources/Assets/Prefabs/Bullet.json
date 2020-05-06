@@ -1,0 +1,36 @@
+{
+  "Body": {
+    "Mass": 0.01,
+    "useGravity": false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Model": {
+  "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Bullet.obj",
+	"isLight": false
+  },
+   "Particle": {
+    "Type": 2,
+	
+    "Static_Dynamic": 1
+  },
+  "ParticleGenerator": {
+   "Texture": "Bullet_Particle.png"
+  
+
+  },
+  "Timer": { "mTimeLeft": 3.0 },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.2, 0.1, 0.1 ]
+  },
+  "Type": "Bullet"
+}

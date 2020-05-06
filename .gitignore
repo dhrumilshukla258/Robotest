@@ -1,0 +1,11 @@
+﻿/FlyEngine/Release
+/FlyEngine/Debug
+/Debug
+/Release
+/.vs
+/FlyEngine/x64
+/FlyEngine/Logs/
+/FlyEngine/imgui.ini
+/FlyEngine/memory_leak_report.txt
+/FlyEngine/Resources/Assets/Levels/Serialized
+/FlyEngine/Resources/Assets/Docs

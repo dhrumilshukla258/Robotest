@@ -1,0 +1,51 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_british_racing_green_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.258824 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/M_640x480_british_racing_green_solid_color_background.jpg
+
+newmtl _auto_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl _auto_105
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.462745 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/_auto_105.jpg
+
+newmtl M_640x480_burnt_umber_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.196078 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/M_640x480_burnt_umber_solid_color_background.jpg
+
+newmtl _auto_104
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.462745 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/_auto_104.jpg
+
+newmtl M_640x480_brown_traditional_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.294118 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/M_640x480_brown_traditional_solid_color_background.jpg
+
+newmtl M_640x480_charcoal_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.270588 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/M_640x480_charcoal_solid_color_background1.jpg
+
+newmtl M_640x480_charleston_green_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.172549 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd Hand/M_640x480_charleston_green_solid_color_background.jpg
+

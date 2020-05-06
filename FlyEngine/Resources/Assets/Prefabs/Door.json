@@ -1,0 +1,25 @@
+{
+  "Body": {
+    "Mass": 0.0
+  },
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Brown_Gate.obj",
+	"isLight": false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Door": {},
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Door"
+}

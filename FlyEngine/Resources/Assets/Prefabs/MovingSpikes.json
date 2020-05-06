@@ -1,0 +1,27 @@
+{
+  "Body": {
+    "Mass": 1000000.0,
+    "useGravity": false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    },
+    "e": 0
+  },
+  "Model": {
+    "Color": [ 5.0, 0.0, 0.0 ],
+    "ModelFile": "White_Light.obj",
+    "isLight": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Oscillation": {},
+  "Type": "MovingSpikes"
+}

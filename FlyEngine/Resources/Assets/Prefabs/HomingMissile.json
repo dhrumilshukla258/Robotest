@@ -1,0 +1,40 @@
+{
+  "Body": {
+    "Mass": 0.01,
+    "useGravity": false
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Model": {
+  "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "Homing_Missile.obj",
+	"isLight": false
+  },
+    "Particle": {
+    "Type": 1,
+	
+    "Static_Dynamic": 1
+  },
+  "ParticleGenerator": {
+   "Texture": "Fire.png"
+  
+
+  },
+  "Homing": {
+    "Speed": 20.0,
+    "RotSpeed": 5.0
+  },
+  "Timer": { "mTimeLeft": 4.0 },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.5, 0.4, 0.4 ]
+  },
+  "Type": "EnemyBullet"
+}

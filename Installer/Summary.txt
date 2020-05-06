@@ -1,0 +1,14 @@
+Game’s Name 
+ROBOTEST
+Genre
+2.5D Platformer , Adventure , Puzzle, Sidescroller ,shooter
+Description
+A generation of robots that learn from the environment.  whose purpose is to work on environments where no man can access...
+You will represent part of one robot’s specific algorithm by controlling it and learning to use the environment resources 
+
+Team/Role
+Ivan Cazares: Producer, audio,editor
+Fenil Shingala: Game Engine Programmer
+Dhrumil Shukla: Game Engine Programmer
+Shashwat Pandey: Physics, player controller
+Arnold George:  Graphics, particles

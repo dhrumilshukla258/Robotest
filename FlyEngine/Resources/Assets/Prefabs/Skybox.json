@@ -1,0 +1,11 @@
+{
+  "RawModel": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "RawModelFile": "SkyBox.obj"
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Skybox"
+}

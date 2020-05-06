@@ -1,0 +1,35 @@
+{
+  "Particle": {
+    "Type": 0,
+    "Static_Dynamic": 0,
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Velocity": [ 0.0, 1.0, 0.0 ],
+    "Position_Adjust": [ 0.0, 0.0, 0.0 ],
+    "Color": [ 1.0, 0.3, 0.0 ],
+    "Color_W": 0.7,
+    "Life": 1.0,
+    "Kill_Time": 0.0001,
+    "Velocity_Control": 0.1,
+    "Color_Fade": 0.05,
+    "X_Axis_Adjust": 3.0,
+    "Y_Axis_Adjust": 2.0,
+    "Z_Axis_Adjust": 2.0,
+    "X_Scale_Adjust": -0.0099,
+    "Y_Scale_Adjust": -0.0099,
+    "Z_Scale_Adjust": -0.0099,
+    "Scale": [ 1.0, 1.0, 1.0 ],
+    "Max_Paticles": 2,
+    "Current_Texture_ID": 0
+  },
+  "ParticleGenerator": {
+    "Texture": "ParticleFog.png"
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.1, 0.1, 0.1 ]
+  },
+  "Timer": {
+    "mTimeLeft": 1.5
+  },
+  "Type": "Particle"
+}

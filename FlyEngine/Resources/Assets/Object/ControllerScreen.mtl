@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_beige_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.960784 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd ControllerScreen/M_640x480_beige_solid_color_background.jpg
+
+newmtl ControllerScreen
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+map_Kd ControllerScreen/ControllerScreen.png
+

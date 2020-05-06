@@ -1,0 +1,24 @@
+{
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "White_Light.obj",
+	"isLight": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.1, 0.1, 0.1 ]
+  },
+  "Light":{
+				"Type":0,
+				"Direction":[ 0.2, 0.2, 0.2],
+				"Ambient":[ 0.2, 0.2, 0.2],
+				"Diffuse":[ 1.0, 0.57422, 0.1602],
+				"Specular":[0.2, 0.2, 0.2],
+				"Constant":1.0,
+				"Linear":0.027,
+				"Quadratic":0.0028,
+				"CutOff":55,
+				"OuterCutOff":85
+  },
+  "Type": "Light"
+}

@@ -1,0 +1,26 @@
+{
+  "Body": {
+    "Mass": 0.0
+  },
+  "Collider": {
+    "Shape": {
+      "Name": "AABB",
+      "Top": 10,
+      "Bottom": -10,
+      "Left": -10,
+      "Right": 10
+    }
+  },
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "ModelFile": "White_Light.obj",
+    "isLight": false
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 2.5, 0.5, 0.5 ],
+	"Rotation": 30.0,
+    "RotationDir": [ 0.0, 1.0, 0.0 ]
+  },
+  "Type": "Button_Exit"
+}

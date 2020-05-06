@@ -1,0 +1,13 @@
+{
+
+  "Model": {
+    "Color": [ 1.0, 1.0, 1.0 ],
+    "isLight": true,
+    "ModelFile": "White_Light.obj"
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Background"
+}

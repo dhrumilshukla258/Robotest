@@ -1,0 +1,26 @@
+{
+  "Body": {
+    "Mass": 0
+  },
+  "Collider" : {
+    "Shape": {
+      "Bottom": -10,
+      "Left": -10,
+      "Name": "AABB",
+      "Right": 10,
+      "Top": 10
+    },
+	"fs" : 0.3,
+	"fd" : 0.15
+  },
+  "Model": {
+    "Color": [ 5.0, 0.0, 0.0 ],
+    "ModelFile": "White_Light.obj",
+    "isLight": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+  },
+  "Type": "Spikes"
+}

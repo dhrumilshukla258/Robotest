@@ -1,0 +1,34 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_640x480_smoky_black_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+map_Kd Boss/M_640x480_smoky_black_solid_color_background.jpg
+
+newmtl M_640x480_orange_web_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.996078 0.647059 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Boss/M_640x480_orange_web_solid_color_background.jpg
+
+newmtl M_640x480_harvest_gold_solid_color_background1
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.568627 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Boss/M_640x480_harvest_gold_solid_color_background1.jpg
+
+newmtl M_640x480_red_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.996078 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Boss/M_640x480_red_solid_color_background.jpg
+
+newmtl M_640x480_antique_white_solid_color_background
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.921569 0.839216
+Ks 0.330000 0.330000 0.330000
+map_Kd Boss/M_640x480_antique_white_solid_color_background.jpg
+

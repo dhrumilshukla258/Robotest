@@ -1,0 +1,60 @@
+{
+  "Body": {
+    "Mass": 20
+	},
+  "Collider": {
+    "fd": 0.75,
+    "fs": 0.9,
+    "Shape": {
+      "Bottom": -10,
+      "Left": -10,
+      "Name": "AABB",
+      "Right": 10,
+      "Top": 10
+    }
+  },
+  "Health": { "Health": 100 },
+  "Model": {
+    "ModelFile": "Running.fbx",
+	"Color":[ 1.0, 1.0, 1.0 ],
+	"isLight": true
+  },
+  "Transform": {
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 0.60, 1.0, 1.0 ]
+  },
+    "Particle": {
+            "Type": 0,
+            "Static_Dynamic": 1,
+            "Position": [ 0.0, 0.0, 0.0 ],
+            "Velocity": [ 0.0, 0.0, 0.0 ],
+            "Position_Adjust": [ 0.0, -1.9999, 0.0 ],
+            "Color": [ 0.5, 0.5, 0.5 ],
+            "Color_W": 0.5,
+            "Life": 1.0,
+            "Kill_Time": 0.0,
+            "Velocity_Control": 0.0,
+            "Color_Fade": 0.03,
+            "X_Axis_Adjust": 1.0,
+            "Y_Axis_Adjust": 1.0,
+            "Z_Axis_Adjust": 1.0,
+            "X_Scale_Adjust": 0.01,
+            "Y_Scale_Adjust": 0.01,
+            "Z_Scale_Adjust": 0.01,
+            "Scale": [ 1.0, 1.0, 1.0 ],
+            "Max_Paticles": 2,
+            "Current_Texture_ID": 3
+        },
+		 "ParticleGenerator": {
+   "Texture": "Road_Fog.png"
+  },
+  "Animation": {
+    "current_animation": 0,
+    "previous_animation": 1,
+	  "start_Time": 0.0,
+	  "stop_Time": 1.0,
+	  "animation_Speed": 1,
+	  "animation_Repeat": true
+  },
+  "Type": "Player"
+}  
